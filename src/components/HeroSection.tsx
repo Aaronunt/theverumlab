@@ -49,10 +49,10 @@ export function HeroSection() {
               <TrendingUp className="h-6 w-6 text-primary" />
             </div>
             <p className="mt-4 font-display text-3xl font-bold text-foreground">
-              3x
+              90%
             </p>
             <p className="mt-1 text-sm text-muted-foreground">
-              More Conversions
+              Lower OPEX
             </p>
           </div>
           <div className="animate-fade-in-delay-2 flex flex-col items-center">
