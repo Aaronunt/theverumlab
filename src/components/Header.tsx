@@ -12,20 +12,6 @@ export function Header() {
             TheVerumLab
           </span>
         </div>
-        <nav className="hidden md:flex items-center gap-8">
-          <a
-            href="#features"
-            className="text-sm text-muted-foreground transition-colors hover:text-foreground"
-          >
-            Features
-          </a>
-          <a
-            href="#results"
-            className="text-sm text-muted-foreground transition-colors hover:text-foreground"
-          >
-            Results
-          </a>
-        </nav>
       </div>
     </header>
   );
